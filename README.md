@@ -23,4 +23,4 @@ The website includes an About Me section, Projects, a Contact form, responsive d
 
 ChatGPT was used to help explain HTML, CSS, and JavaScript concepts, debug file-path issues, and support the responsive design and JavaScript feature.
 
-More details are available in `docs/ai-usage-report.md`.
+More details are available in `docs/ai-usage-report.md`
